@@ -1,0 +1,18 @@
+ol{
+    color:rgb(136, 18, 18);
+}
+h1,h2{
+    color:red;
+}
+ul{
+    color:rgb(136, 18, 18);
+    letter-spacing: 5px;
+}
+p{
+    color:rgb(71, 6, 6);
+}
+.test{
+    color:rgb(136, 18, 18);
+    background-color: yellow;
+    text-decoration: none;
+}
