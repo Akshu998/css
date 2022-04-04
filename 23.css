@@ -1,0 +1,25 @@
+div{
+    background-color: red;
+    border-style: solid;
+    height:200px;
+    width:200px;
+    position:absolute;
+}
+.test2{
+    background-color: rgb(187, 238, 67);
+    top:40px;
+    left:60px;
+
+ 
+}
+.test3{
+    background-color: rgb(47, 255, 64);
+    top:80px;
+    left:100px;
+}
+.test4{
+    background-color: blue;
+    top:100px;
+    left:120px;
+    
+}
